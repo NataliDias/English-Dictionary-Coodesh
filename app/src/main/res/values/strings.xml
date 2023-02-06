@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dicionary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dictionary of English</string>
+    <string name="nav_header_subtitle">https://github.com/Natali-Dias-DevAprender</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_search">Search</string>
+    <string name="menu_favourites">Favorites</string>
+    <string name="menu_dictionary">Dictionary</string>
+</resources>
