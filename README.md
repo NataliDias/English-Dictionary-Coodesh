@@ -19,8 +19,10 @@
   <a href="https://media.discordapp.net/attachments/1019265341311963186/1070501163625087057/Original2x.png?width=720&height=221" target="blank"><img src="https://media.discordapp.net/attachments/1019265341311963186/1070501163625087057/Original2x.png?width=720&height=221" width="200" alt="Nest Logo" /></a>
 </p>
 
+## Vídeo apresentação do projeto
+[Link de apresentação do projeto](https://www.loom.com/share/a3afb4c6834d43a5a1b899cfadc272dc)
 
-  ## 📚 Features
+## 📚 Features
 
 
 Ele fornece as seguintes funcionalidades para o usuário:
