@@ -99,9 +99,9 @@ Ele fornece as seguintes funcionalidades para o usuário:
   usuário na View.
 - Binding: Vincule as propriedades da ViewModel às propriedades da View, para que as alterações feitas na ViewModel sejam automaticamente refletidas na View.
 - Implementação: Implemente as funcionalidades restantes do aplicativo, incluindo a lógica de negócios e outros comportamentos.
-- Para implementar o banco de dados SQLite em um aplicativo utilizando a arquitetura MVVM, você precisa seguir estes passos:
 
-8. Para implementar o banco de dados SQLite, você precisa seguir estes passos:
+
+8. Para implementar o banco de dados SQLite em um aplicativo utilizando a arquitetura MVVM, você precisa seguir estes passos:
 - Adicionar a biblioteca SQLite ao seu projeto. Isso pode ser feito baixando o pacote apropriado ou adicionando uma referência a ele em seu arquivo de projeto, 
   dependendo da plataforma e das ferramentas que você está usando.
 - Criar um modelo para representar os dados que você deseja armazenar no banco de dados. Este modelo pode ser uma classe simples ou uma classe complexa que representa 
