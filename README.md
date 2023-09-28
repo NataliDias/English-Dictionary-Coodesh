@@ -122,18 +122,7 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Validar o arquivo XML para garantir que ele seja válido e que siga as regras da linguagem XML.
 - Exemplo de um arquivo XML simples:
  <?xml version="1.0"?>
-<livros>
-  <livro>
-    <título>O Pequeno Príncipe</título>
-    <autor>Antoine de Saint-Exupéry</autor>
-    <ano>1943</ano>
-  </livro>
-  <livro>
-    <título>O Lobo da Estepe</título>
-    <autor>Herman Hesse</autor>
-    <ano>1927</ano>
-  </livro>
-</livros>
+
 Você pode utilizar o arquivo XML para armazenar configurações, recursos de interface de usuário, dados de aplicativo, entre outros.
 
 
