@@ -31,8 +31,6 @@ Ele fornece as seguintes funcionalidades para o usuário:
 - Substituição de (Word list) por barra de pesquisa(Adicional)
 - O aplicativo Android permite que você procure palavras usando Free Dictionary API
 - Salvar palavras nos favoritos(Em processo de criação)
-- Mostrar lista de palavras favoritas(Em processo de criação)
-- Remover palavras de favocitos(Em processo de implementação)
 - Funcionalidade de cache offline
 - Funcionalidade de conversão de palavras em aúdio
 - Design de Tema Claro e Escuro
